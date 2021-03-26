@@ -9,3 +9,4 @@
 13-CVE-2017-17969.patch
 14-Fix-g++-warning.patch
 15-Fix-FTBFS-gcc10.patch
+gooroom-fixed-zip-encoding-error.patch
