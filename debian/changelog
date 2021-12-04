@@ -1,3 +1,10 @@
+p7zip (16.02+dfsg-8+grm3u1) unstable; urgency=medium
+
+  [ jongkyung.woo ]
+  * [3fb18b1f] Rebuild on gooroom-3.0
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Sat, 04 Dec 2021 12:59:15 +0900
+
 p7zip (16.02+dfsg-8+grm2u1) unstable; urgency=medium
 
   [ donghun ]
